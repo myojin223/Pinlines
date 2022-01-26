@@ -2,4 +2,4 @@
 
 ## For Proximity 0.5.4+
 
-![alt text](LINK?raw=true)
+![alt text](https://github.com/myojin223/Pinlines/blob/main/Pinlines/%5BPreview%5D.jpg?raw=true)
